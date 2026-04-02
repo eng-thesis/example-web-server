@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{64B9E8F1-6D6B-4DDB-AD2E-C9F58760B2EB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{80407AFF-A18B-4188-A836-095AFB0DF465}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExampleWebServer", "src\ExampleWebServer\ExampleWebServer.csproj", "{FCE30CB6-A23C-42E2-8D6F-7DD5AD35E488}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCE30CB6-A23C-42E2-8D6F-7DD5AD35E488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCE30CB6-A23C-42E2-8D6F-7DD5AD35E488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCE30CB6-A23C-42E2-8D6F-7DD5AD35E488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCE30CB6-A23C-42E2-8D6F-7DD5AD35E488}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FCE30CB6-A23C-42E2-8D6F-7DD5AD35E488} = {64B9E8F1-6D6B-4DDB-AD2E-C9F58760B2EB}
+	EndGlobalSection
+EndGlobal
